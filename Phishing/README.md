@@ -17,7 +17,7 @@ https://www.google.com/ | Legitimate
 https://wallpapersite.com/abstract/ | Legitimate
 https://www.freepik.com/free-vector | Legitimate
 
-## This project is deployed on IBM Cloud Foundry
+
 
 
     
